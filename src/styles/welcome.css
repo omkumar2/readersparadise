@@ -1,8 +1,8 @@
 
 .welcomeBox{
     position: relative;
-    width: 50%;
-    height: 50%;
+    width: 80%;
+    height: 80%;
     box-sizing: border-box;
     box-shadow: 0 0 1rem 1rem var(--box-shadow-color, rgb(0, 0, 0));
     border-radius: 25% 5%;
